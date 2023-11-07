@@ -1,2 +1,4 @@
-langchain
-libodbc
+SQLAlchemy==1.3.18
+openpyxl==3.0.4
+streamlit==1.11.1
+pyodbc==4.0.30
