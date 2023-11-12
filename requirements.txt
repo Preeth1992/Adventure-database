@@ -1,3 +1,5 @@
 langchain==0.0.154
 openai==0.28.1
 python-dotenv==1.0.0
+PyPDF2==3.0.1
+pyodbc 5.0.1
