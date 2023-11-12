@@ -4,3 +4,5 @@ openai==0.28.1
 python-dotenv==1.0.0
 PyPDF2==3.0.1
 pyodbc 5.0.1
+sqlalchemy==2.0.22
+DateTime==5.2
