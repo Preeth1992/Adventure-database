@@ -10,7 +10,7 @@ import streamlit as st
 
 st.header("Adventure database chatbot")
 
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = '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'
 
 
 #database connection details
